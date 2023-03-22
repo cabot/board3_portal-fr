@@ -38,7 +38,7 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, [
-	'TOPPOSTERS'					=> 'Utilisateurs les plus actifs',
+	'TOPPOSTERS'					=> 'Utilisateurs actifs',
 	'TOPPOSTERS_CONFIG'				=> 'Paramètres des utilisateurs les plus actifs',
 
 	// ACP
